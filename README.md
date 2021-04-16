@@ -31,6 +31,17 @@
 </p>
 <h4> +15 anos experiência em planejamento, gerenciamento de equipes, financeiro, contratos e negociação</h4>
 
+
+<br>
+
+<h1> Estudando 💡</h1>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/></p><p align="center">
+</p>
+
+
+
 <br>
 
 <h1> Onde me achar 🌐</h1>
