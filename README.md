@@ -11,11 +11,15 @@
 <h3 align="center">Desenvolvedor front-end | Administrador e Empreendedor | </h3>
 <h4 align="center"> +15 anos experiência em planejamento, financeiro, contratos e negociação</h4>
 
+<h1> Formação 🎓 </h1>
+<ul><li><a href="https://www.ufrgs.br/escoladeadministracao">Administração de Empresas - UFRGS</a></ul></li>
 
 
 
 
-Me chamo Rodrigo Lorandi, tenho 41 anos, natural de Porto Alegre, formado em [Administração de Empresas - UFRGS](https://www.ufrgs.br/escoladeadministracao/) e sou um entusiasta da programação .
+
+
+
 
 Sou da primeira geração que usou os computadores como forma de entretenimento. Tanto que meus jogos preferidos eram de estratégia, o que foi muito útil para desenvolver habilidades de resolução de problemas e uso racional de tempo e recursos.
 
