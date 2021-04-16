@@ -20,7 +20,7 @@
 <ul>
   <li><a href="https://rocketseat.com.br/">Discovery e Ignite da Rocketseat</a></li>
   <li><a href="https://cs50.harvard.edu/college/2021/spring/">CS50 da Harvard University</a></li>
-  <li><a href="https://www.alura.com.br/>Formação Frontend da Alura</a></li>
+  <li><a href="https://www.alura.com.br"/>Formação Frontend da Alura</a></li>
 </ul>
 
 
