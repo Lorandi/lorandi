@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou o Rodrigo Lorandi</h1>
+<h1 align="center">Olá, sou o Rodrigo Lorandi 😉</h1>
 <h3 align="center">Desenvolvedor Front-end | Administrador e Empreendedor  </h3>
 
 
