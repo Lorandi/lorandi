@@ -26,6 +26,7 @@
 <h1> Experiência ✔️</h1>
 <h4> +15 anos experiência em planejamento, gerenciamento de equipes, financeiro, contratos e negociação</h4>
 
+<br>
 
 <h1> Onde estou 🌐</h1>
 
@@ -35,13 +36,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/RodrigoLorandi)](https://www.facebook.com/RodrigoLorandi)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?l=pt_BR&phone=+5551992892420)](https://api.whatsapp.com/send?l=pt_BR&phone=+5551992892420)
 
-
-
-<a href="https://www.linkedin.com/in/rodrigo-lorandi"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-Linkedin: https://www.linkedin.com/in/rodrigo-lorandi/
-
-Github: https://github.com/Lorandi
-
+<h1>E mais...⌨️ </h1>
 Rocketseat: https://app.rocketseat.com.br/me/rodrigo-lorandi-07910
 
 Codewars: https://www.codewars.com/users/Lorandi
