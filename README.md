@@ -1,3 +1,4 @@
+<html>
 
 <h1 align="center">Olá, sou o Rodrigo Lorandi</h1>
 <h3 align="center">Desenvolvedor Front-end | Administrador e Empreendedor  </h3>
@@ -29,6 +30,7 @@
 
 
 <h1> Onde estou 🌐</h1>
+</html>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-lorandi/)](https://www.linkedin.com/in/rodrigo-lorandi/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Lorandi)](https://github.com/Lorandi)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/channels/Lorandi#5181)](https://discord.com/channels/Lorandi#5181)
