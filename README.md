@@ -8,8 +8,8 @@
 
 
 <h1 align="center">Olá, sou o Rodrigo Lorandi</h1>
-<h3 align="center">Desenvolvedor Front-end | Administrador e Empreendedor | </h3>
-<h4 align="center"> +15 anos experiência em planejamento, financeiro, contratos e negociação</h4>
+<h3 align="center">Desenvolvedor Front-end | Administrador e Empreendedor  </h3>
+
 
 <h1> Um pouco sobre mim... </h1>
 <h4> Em maio de 2020 decidi iniciar um processo de transição de carreira. Via toda a revolução que a programação vinha fazendo, com automatização de processos, machine learning, carros autônomos,  Data Science, soluções mobile e  parecia que eu estava parado na década passada. </h4>
@@ -31,6 +31,9 @@
 </ul>
 
 <br>
+
+<h1> Experiência ✔️</h1>
+<h4> +15 anos experiência em planejamento, financeiro, contratos e negociação</h4>
 
 
 
