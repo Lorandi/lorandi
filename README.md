@@ -7,13 +7,11 @@ Faaaaaala Devs!!!
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?l=pt_BR&phone=+5551992892420)](https://api.whatsapp.com/send?l=pt_BR&phone=+5551992892420)
 
 
-Me chamo Rodrigo Lorandi, tenho 41 anos, natural de Porto Alegre, formado em Administração de Empresas pela UFRGS e tenho dois filhos, a Isabela de 8 anos e o Marcelo de 6.
+Me chamo Rodrigo Lorandi, tenho 41 anos, natural de Porto Alegre, formado em Administração de Empresas pela UFRGS e sou um entusiasta da programação .
 
 Sou da primeira geração que usou os computadores como forma de entretenimento. Tanto que meus jogos preferidos eram de estratégia, o que foi muito útil para desenvolver habilidades de resolução de problemas e uso racional de tempo e recursos.
 
-Em maio de 2020 decidi iniciar um processo de transição de carreira, agora para área da tecnologia. Já não me sentia desafiado intelectualmente e também não percebia um horizonte de crescimento na área em que atuava.
-
-Via toda a revolução que a programação vinha fazendo, com automatização de processos, machine learning, carros autônomos,  Data Science, soluções mobile e  parecia que eu estava parado na década passada.
+Em maio de 2020 decidi iniciar um processo de transição de carreira. Via toda a revolução que a programação vinha fazendo, com automatização de processos, machine learning, carros autônomos,  Data Science, soluções mobile e  parecia que eu estava parado na década passada.
 
 Assim iniciei os estudos, tanto por conteúdo livre na internet como cursos mais estruturados como a plataforma Alura, a Rocketseat e o curso CS50 oferecido pela Universidade de Harvard.
 
