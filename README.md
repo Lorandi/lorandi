@@ -44,9 +44,8 @@
 
 <h1> Portfólio 🛠</h1>
 <ul>
-  <li><a href="http://www.rodrigolorandi.com.br/">Rodrigo Lorandi</a></li>
-</u>
-
+  <li><a href="http://www.rodrigolorandi.com.br/">Site</a></li>
+</ul>
 
 <br>
 
