@@ -28,12 +28,6 @@
 
 
 <h1> Onde estou 🌐</h1>
-<a href="https://www.linkedin.com/in/rodrigo-lorandi"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-
-Linkedin: https://www.linkedin.com/in/rodrigo-lorandi/
-
-Github: https://github.com/Lorandi
-
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-lorandi/)](https://www.linkedin.com/in/rodrigo-lorandi/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Lorandi)](https://github.com/Lorandi)
@@ -43,7 +37,7 @@ Github: https://github.com/Lorandi
 
 
 
-
+<a href="https://www.linkedin.com/in/rodrigo-lorandi"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 Linkedin: https://www.linkedin.com/in/rodrigo-lorandi/
 
 Github: https://github.com/Lorandi
