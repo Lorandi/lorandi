@@ -43,7 +43,10 @@
 <br>
 
 <h1> Portfólio 🛠</h1>
-Rodrigo Lorandi: www.rodrigolorandi.com.br
+<ul>
+  <li><a href="http://www.rodrigolorandi.com.br/">Rodrigo Lorandi</a></li>
+</u>
+
 
 <br>
 
