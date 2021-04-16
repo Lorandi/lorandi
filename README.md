@@ -2,6 +2,7 @@ Faaaaaala Devs!!!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Lorandi)](https://github.com/Lorandi)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-lorandi/)](https://www.linkedin.com/in/rodrigo-lorandi/)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://www.linkedin.com/in/rodrigo-lorandi/)]
 
 
 Me chamo Rodrigo Lorandi, tenho 41 anos, natural de Porto Alegre, formado em Administração de Empresas pela UFRGS e tenho dois filhos, a Isabela de 8 anos e o Marcelo de 6.
