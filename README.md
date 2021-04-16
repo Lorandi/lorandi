@@ -37,7 +37,9 @@
 <h1> Estudando 💡</h1>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/></p><p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/></p>
+<img src="https://img.icons8.com/color/30/000000/typescript.png" title="typescript"/>&ensp;&ensp;
+<p align="center">
 </p>
 
 <br>
