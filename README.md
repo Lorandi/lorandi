@@ -22,15 +22,18 @@
 </ul>
 
 <h1> Um pouco sobre mim... </h1>
-
-
-Sou da primeira geração que usou os computadores como forma de entretenimento. Tanto que meus jogos preferidos eram de estratégia, o que foi muito útil para desenvolver habilidades de resolução de problemas e uso racional de tempo e recursos.
+<h4>Sou da primeira geração que usou os computadores como forma de entretenimento. Tanto que meus jogos preferidos eram de estratégia, o que foi muito útil para desenvolver habilidades de resolução de problemas e uso racional de tempo e recursos.</h4>
 
 Em maio de 2020 decidi iniciar um processo de transição de carreira. Via toda a revolução que a programação vinha fazendo, com automatização de processos, machine learning, carros autônomos,  Data Science, soluções mobile e  parecia que eu estava parado na década passada.
 
 Hoje estou no meio desse processo e venho dedicando muitas horas por dia na busca de conhecimento e aperfeiçoamento. Creio que o meu perfil planejador, metódico e analítico podem ter grande utilidade na área.
 
 Neste instante não estou trabalhando na área (#OpenToWork) e tenho conhecimento  em HTML, CSS, Javascript, React e NextJS. 
+
+
+
+
+
 
 Linkedin: https://www.linkedin.com/in/rodrigo-lorandi/
 
