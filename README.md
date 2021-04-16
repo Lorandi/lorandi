@@ -13,8 +13,6 @@
 
 <h1> Formação 🎓 </h1>
 <ul><li><a href="https://www.ufrgs.br/escoladeadministracao">Administração de Empresas - UFRGS</a></ul></li>
-<br>
-
 
 <h1> Cursos 📚 </h1>
 <ul>
@@ -23,19 +21,12 @@
   <li><a href="https://www.alura.com.br"/>Formação Frontend da Alura</a></li>
 </ul>
 
-
-
-
-
-
-
+<h1> Um pouco sobre mim... </h1>
 
 
 Sou da primeira geração que usou os computadores como forma de entretenimento. Tanto que meus jogos preferidos eram de estratégia, o que foi muito útil para desenvolver habilidades de resolução de problemas e uso racional de tempo e recursos.
 
 Em maio de 2020 decidi iniciar um processo de transição de carreira. Via toda a revolução que a programação vinha fazendo, com automatização de processos, machine learning, carros autônomos,  Data Science, soluções mobile e  parecia que eu estava parado na década passada.
-
-Assim iniciei os estudos, tanto por conteúdo livre na internet como cursos mais estruturados como a plataforma [Alura](https://www.alura.com.br/), a [Rocketseat](https://rocketseat.com.br/) e o curso [CS50](https://cs50.harvard.edu/college/2021/spring/) oferecido pela [Harvard University](https://www.harvard.edu/).
 
 Hoje estou no meio desse processo e venho dedicando muitas horas por dia na busca de conhecimento e aperfeiçoamento. Creio que o meu perfil planejador, metódico e analítico podem ter grande utilidade na área.
 
