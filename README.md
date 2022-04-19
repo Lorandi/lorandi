@@ -1,11 +1,11 @@
 <h1 align="center">Olá, sou o Rodrigo Lorandi 😉</h1>
-<h3 align="center">Desenvolvedor Front-end | Administrador e Empreendedor  </h3>
+<h3 align="center">Desenvolvedor Java | Administrador e Empreendedor  </h3>
 
 
 <h1> Um pouco sobre mim... </h1>
 <h4> Em maio de 2020 decidi iniciar um processo de transição de carreira. Via toda a revolução que a programação vinha fazendo, com automatização de processos, machine learning, carros autônomos,  Data Science, soluções mobile e  parecia que eu estava parado na década passada. </h4>
 <h4> Hoje estou no meio desse processo e venho dedicando muitas horas por dia na busca de conhecimento e aperfeiçoamento. Creio que o meu perfil planejador, metódico e analítico podem ter grande utilidade na área. </h4>
-<h4> #OpenToWork </h4>
+
 
 <br>
 
@@ -19,6 +19,7 @@
   <li><a href="https://rocketseat.com.br/">Discovery e Ignite da Rocketseat 🚀</a></li>
   <li><a href="https://cs50.harvard.edu/college/2021/spring/">CS50 da Harvard University 🏫</a></li>
   <li><a href="https://www.alura.com.br"/>Formação Front-end da Alura 💻 </a></li>
+  <li><a href="https://www.udemy.com/course/java-curso-completo/"/>Formação Java 💻 </a></li>
 </ul>
 
 <br>
@@ -28,6 +29,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="css3"  width="30" height="30"/>
 </p>
 <h4> +15 anos experiência em planejamento, gerenciamento de equipes, financeiro, contratos e negociação</h4>
 
