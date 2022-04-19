@@ -49,10 +49,11 @@
 
 <br>
 
-<h1> Portfólio 🛠</h1>
+ /* <h1> Portfólio 🛠</h1>
 <ul>
   <li><a href="http://www.rodrigolorandi.com.br/">Site</a></li>
 </ul>
+*/
 
 <br>
 
