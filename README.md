@@ -4,7 +4,7 @@
 
 <h1> Um pouco sobre mim... </h1>
 <h4> Em maio de 2020 decidi iniciar um processo de transição de carreira. Via toda a revolução que a programação vinha fazendo, com automatização de processos, machine learning, carros autônomos,  Data Science, soluções mobile e  parecia que eu estava parado na década passada. </h4>
-<h4> Hoje estou no meio desse processo e venho dedicando muitas horas por dia na busca de conhecimento e aperfeiçoamento. Creio que o meu perfil planejador, metódico e analítico podem ter grande utilidade na área. </h4>
+<h4> Hoje sou Desenvolvedor Java Jr na <a href="http://www.southsystem.com.br/">South System</a>.</h4>
 
 
 <br>
@@ -19,7 +19,7 @@
   <li><a href="https://rocketseat.com.br/">Discovery e Ignite da Rocketseat 🚀</a></li>
   <li><a href="https://cs50.harvard.edu/college/2021/spring/">CS50 da Harvard University 🏫</a></li>
   <li><a href="https://www.alura.com.br"/>Formação Front-end da Alura 💻 </a></li>
-  <li><a href="https://www.udemy.com/course/java-curso-completo/"/>Formação Java 💻 </a></li>
+  <li><a href="https://www.udemy.com/course/java-curso-completo/"/>Formação Back-end com Java 💻 </a></li>
 </ul>
 
 <br>
@@ -46,14 +46,6 @@
     <img src="https://img.icons8.com/color/30/000000/typescript.png" title="typescript"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/nodejs.png" title="nodejs"/>&ensp;&ensp;
 </p>
-
-<br>
-
- /* <h1> Portfólio 🛠</h1>
-<ul>
-  <li><a href="http://www.rodrigolorandi.com.br/">Site</a></li>
-</ul>
-*/
 
 <br>
 
