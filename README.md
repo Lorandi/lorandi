@@ -4,7 +4,7 @@
 
 <h1> Um pouco sobre mim... </h1>
 <h4> Em maio de 2020 decidi iniciar um processo de transição de carreira. Via toda a revolução que a programação vinha fazendo, com automatização de processos, machine learning, carros autônomos,  Data Science, soluções mobile e  parecia que eu estava parado na década passada. </h4>
-<h4> Hoje sou Desenvolvedor Java Jr na <a href="http://www.southsystem.com.br/">South System</a>.</h4>
+<h4> Hoje sou Desenvolvedor Java na <a href="http://www.southsystem.com.br/">South System</a>.</h4>
 
 
 <br>
