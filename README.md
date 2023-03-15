@@ -10,6 +10,7 @@
 <br>
 
 <h1> Formação 🎓 </h1>
+<ul><li><a href="[https://www.ufrgs.br/escoladeadministracao](http://www.poa.ifrs.edu.br/index.php?option=com_content&view=article&layout=edit&id=3206)">Sistemas para Internet - IFRS (em andamento)</a></ul></li>
 <ul><li><a href="https://www.ufrgs.br/escoladeadministracao">Administração de Empresas - UFRGS</a></ul></li>
 
 <br>
